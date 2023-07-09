@@ -3,7 +3,6 @@
 ## Table of Contents:
 [Description](https://github.com/Shridhar2602/Jobbot/edit/main/README.md#description) <br>
 [Track](https://github.com/Shridhar2602/Jobbot/edit/main/README.md#track) <br>
-[Contributors](https://github.com/Shridhar2602/Jobbot/edit/main/README.md#contributors) <br>
 [Details](https://github.com/Shridhar2602/Jobbot/edit/main/README.md#details) <br>
 [Installation](https://github.com/Shridhar2602/Jobbot/edit/main/README.md#installation) <br>
 [Instructions to run the code](https://github.com/Shridhar2602/Jobbot/edit/main/README.md#instructions-to-run-the-code) <br>
@@ -24,12 +23,6 @@ Thus if you want to save time and apply for jobs smarter, then Jobbot is THE app
 - Task Automation
 - Open Innovation
 
-## Contributors:
-Team Name - Room_Num_219
-- [Anshul Jindal](https://github.com/anshul-iiitb16)
-- [Mayank Chadha](https://github.com/mayankchadha16)
-- [Shreeya Venneti](https://github.com/ShreeyaVenneti)
-- [Shridhar Sharma](https://github.com/Shridhar2602)
 
 ## DETAILS:
 

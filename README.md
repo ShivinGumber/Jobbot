@@ -6,7 +6,7 @@
 [Details](https://github.com/Shridhar2602/Jobbot/edit/main/README.md#details) <br>
 [Installation](https://github.com/Shridhar2602/Jobbot/edit/main/README.md#installation) <br>
 [Instructions to run the code](https://github.com/Shridhar2602/Jobbot/edit/main/README.md#instructions-to-run-the-code) <br>
-[Demo and Screenshots](https://github.com/Shridhar2602/Jobbot/edit/main/README.md#demo)
+[Screenshots](https://github.com/Shridhar2602/Jobbot/edit/main/README.md#demo)
 
 
 ## DESCRIPTION:
@@ -109,13 +109,9 @@ Install Tkinter library in Ubuntu
 	- Click Submit button
 	- Jobbot will automate the task of filling the forms
 
-## Demo:
-[Demo Link](https://www.youtube.com/watch?v=ex9cSTfpsSQ)
 
 ## Screenshots
 ### Application Screenshots
 ![Screenshot-20220213174103-882x569](https://user-images.githubusercontent.com/63835433/153769026-02b65746-3177-4331-b95e-12f6d7b1582e.png)
 ![Screenshot-20220213234840-882x569](https://user-images.githubusercontent.com/63835433/153769028-dd0257ef-335d-4c64-9cb3-5d13c325d371.png)
 
-### Example Resume built from our Application
-![Example Resume](https://user-images.githubusercontent.com/63835433/153753018-458df3c3-8db1-4398-a7d2-e8240cf8b97b.png)
